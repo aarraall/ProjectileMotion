@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91d8ea16-662b-41ca-99c9-15ad0f60409e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/UIHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/ShootHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE47BE73-F7EF-409C-A5E5-CE4B121745B7/1b/751c2bc4/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/AimController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/ArtilleryController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/ObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/UIHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/Return.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/PoolingHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/ShootHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ball.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hrVsa3esGYyjDq0tWD5OBsjS7a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop\Projectile Motion.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Aral\Desktop" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91d8ea16-662b-41ca-99c9-15ad0f60409e" name="Default Changelist" comment="" />
+      <created>1600769409684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600769409684</updated>
+      <workItem from="1600769419269" duration="1000" />
+      <workItem from="1600769444689" duration="744000" />
+      <workItem from="1600771033857" duration="6267000" />
+      <workItem from="1600778097397" duration="12503000" />
+      <workItem from="1600851624416" duration="17095000" />
+      <workItem from="1600872657835" duration="20000" />
+      <workItem from="1600873349362" duration="30000" />
+      <workItem from="1600873407333" duration="51000" />
+      <workItem from="1601026496138" duration="23000" />
+      <workItem from="1601026636906" duration="520000" />
+      <workItem from="1601192748394" duration="3029000" />
+      <workItem from="1601196465884" duration="1210000" />
+      <workItem from="1601198716008" duration="850000" />
+      <workItem from="1601233539009" duration="4456000" />
+      <workItem from="1601301551250" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="271" key="Rider.ProjectTemplateDialog.Size" timestamp="1601026517030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="271" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1601026517030" />
+    <state x="725" y="263" key="RiderGenerateDialog" timestamp="1601301652266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="725" y="263" key="RiderGenerateDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601301652266" />
+    <state x="638" y="273" width="644" height="534" key="find.popup" timestamp="1600781262551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="638" y="273" width="644" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600781262551" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1600785755644">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600785755644" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1601197170709">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601197170709" />
+  </component>
+</project>
